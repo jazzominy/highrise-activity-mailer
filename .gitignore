@@ -1,0 +1,6 @@
+*.log
+data
+node_modules/.bin
+node_modules/bunyan
+node_modules/handlebars
+node_modules/nodemailer

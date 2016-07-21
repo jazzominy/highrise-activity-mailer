@@ -1,0 +1,25 @@
+{
+  "name": "highrise-activity-mailer",
+  "version": "1.0.0",
+  "description": "This application fetches user activity from highrise and mails it to the specified email address",
+  "main": "index.js",
+  "repository": {
+	    "type": "git",
+	    "url": "git://github.com/jazzominy/highrise-activity-mailer.git"
+	  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasmine Hirpara",
+  "license": "MIT",
+  "dependencies": {
+    "bunyan": "^1.8.1",
+    "handlebars": "^4.0.5",
+    "nodemailer": "^2.4.2"
+  },
+  "keywords": [
+    "highrise",
+    "activities",
+    "recordings"
+  ]
+}

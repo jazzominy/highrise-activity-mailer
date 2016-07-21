@@ -1,0 +1,16 @@
+{
+	"highrise": {
+		"company": "company",
+		"token": "abcxyz",
+		"logRequiredSince": ""
+	},
+
+	"mailConfig": {
+		"smtpEmail": "abc@email.com",
+		"password": "****",
+		"fromEmail": "abc@email.com",
+		"toEmail": "abc@email.com",
+		"subject": "Highrise User Activity Log",
+		"body": "Please find the highrise activity below"
+	}
+}
